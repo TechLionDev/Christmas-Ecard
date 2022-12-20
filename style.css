@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Archivo Black');
+body{
+  color: #ffffff;
+}
+.letter{
+  font-size: 30px;
+}
+.pacifico{
+  font-family: 'Pacifico', sans-serif
+}
+.arial-black{
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 30px;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.large{
+  font-size: 3.5rem;
+}
+.center{
+  text-align: center;
+  align-self: center;
+  align-items: center;
+}
+.p2{
+  padding-top: 2rem;
+}
+.bar{
+  width: 100%;
+  background-color: #00ff00;
+  height: 10px;
+}
